@@ -1,0 +1,15 @@
+{
+    "name": "appsngen-integration-example",
+    "description": "Example of static website for widget integration",
+    "version": "0.0.1",
+    "private": false,
+    "dependencies": {
+        "connect": "3.4.1",
+        "serve-static": "",
+        "nconf": "0.8.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/appsngen/viewer.git"
+    }
+}
